@@ -15,6 +15,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.1.4",
+          "buildVersion": "7",
+          "date": "2026-05-11T19:14:33Z",
+          "size": 8003047,
+          "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v1.1.4/tomos_dash_unsigned.ipa",
+          "localizedDescription": "Lock-screen notificatie verwijderd (spamde Apple Watch). 3-vinger gebaar op DASH triggert nu volledige UI-rebuild. Spotify metadata via MediaRemote system-notification observer (workaround voor iOS 17+ sideload-restrictie). CFDictionary bridge gefixt."
+        },
+        {
           "version": "1.1.3",
           "buildVersion": "6",
           "date": "2026-05-11T18:58:21Z",
