@@ -15,6 +15,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.1.0",
+          "buildVersion": "202605111851",
+          "date": "2026-05-11T16:51:21Z",
+          "size": 7991191,
+          "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v1.1.0/tomos_dash_unsigned.ipa",
+          "localizedDescription": "Aggressievere SPORT throttle map (75% gas = volgas), TOER krijgt oude SPORT curve, servo deadzone fix (<5% = stand min). Spotify volume control fixed via MPVolumeView trick. Album-art en metadata fallback naar MPNowPlayingInfoCenter. Parkeerlocatie opslaan + terugvinden. All-time stats kaart (totaal km, max snelheid, uren). Live lock-screen notificatie tijdens rit met snelheid/RPM/tank."
+        },
+        {
           "version": "1.0.0",
           "buildVersion": "1",
           "date": "2026-05-11T16:11:27Z",
