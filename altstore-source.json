@@ -15,8 +15,8 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "1.0.1",
-          "buildVersion": "202605111811",
+          "version": "1.0.0",
+          "buildVersion": "1",
           "date": "2026-05-11T16:11:27Z",
           "size": 7924998,
           "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v1.0.1/tomos_dash_unsigned.ipa",
