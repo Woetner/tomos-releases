@@ -15,6 +15,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.3.0",
+          "buildVersion": "10",
+          "date": "2026-05-11T20:02:21Z",
+          "size": 8141182,
+          "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v1.3.0/tomos_dash_unsigned.ipa",
+          "localizedDescription": "Volledige Spotify Web API features op DASH: Recent gespeelde tracks + Playlists panels rechts op het Spotify-scherm. Tap een nummer of playlist op DASH = direct afspelen via Spotify. Album cover fix (oude iOS event channel uitgeschakeld die lege data over de Web API metadata schreef). LET OP: DASH-firmware moet ook opnieuw geflashed worden voor de nieuwe BLE characteristics en lijst-UI."
+        },
+        {
           "version": "1.2.1",
           "buildVersion": "9",
           "date": "2026-05-11T19:50:29Z",
