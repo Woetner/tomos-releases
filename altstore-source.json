@@ -15,6 +15,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.2.0",
+          "buildVersion": "8",
+          "date": "2026-05-11T19:43:30Z",
+          "size": 8126873,
+          "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v1.2.0/tomos_dash_unsigned.ipa",
+          "localizedDescription": "Spotify Web API integratie (Plan B). Werkt onafhankelijk van iOS MediaRemote restricties. Eenmalige setup nodig: maak gratis Spotify app op developer.spotify.com, voeg redirect URI tomosdash://spotify-callback toe, kopieer Client ID naar Instellingen-tab. Daarna voor altijd autonoom: titel, artiest en albumcover naar DASH. DASH sun-times nu alleen van eigen GPS."
+        },
+        {
           "version": "1.1.4",
           "buildVersion": "7",
           "date": "2026-05-11T19:14:33Z",
