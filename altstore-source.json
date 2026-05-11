@@ -1,0 +1,37 @@
+{
+  "name": "Tomos Dash",
+  "identifier": "com.tomosdash.altstore-source",
+  "sourceURL": "https://raw.githubusercontent.com/Woetner/tomos-releases/main/altstore-source.json",
+  "apps": [
+    {
+      "name": "Tomos Dash",
+      "bundleIdentifier": "com.tomosdash.tomosDash",
+      "developerName": "Wouter",
+      "subtitle": "Brommer-dashboard companion app",
+      "localizedDescription": "Companion-app voor de Tomos A55 DASH. Stuurt navigatie, telefoonstatus en media-info via BLE naar het dashboard. Bevat offline routing, kaarten en POI's voor de Benelux.",
+      "iconURL": "https://raw.githubusercontent.com/Woetner/tomos-releases/main/icon.png",
+      "tintColor": "#22c55e",
+      "category": "navigation",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.0.1",
+          "buildVersion": "2",
+          "date": "2026-05-11T18:10:00Z",
+          "size": 7924321,
+          "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v1.0.1/tomos_dash_unsigned.ipa",
+          "localizedDescription": "Nieuwe Fiets-routemodus, minder strikte N-weg uitsluitingen (Afsluitdijk werkt weer), albumhoes-kleuren gefixed."
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": "Voor navigatie en je positie op de kaart",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Voor navigatie als je scherm uit is",
+          "NSBluetoothAlwaysUsageDescription": "Voor verbinding met de Tomos DASH"
+        }
+      }
+    }
+  ],
+  "news": []
+}
