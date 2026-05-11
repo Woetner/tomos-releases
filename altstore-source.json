@@ -21,14 +21,6 @@
           "size": 7924998,
           "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v1.0.1/tomos_dash_unsigned.ipa",
           "localizedDescription": "Nieuwe Fiets-routemodus (OSRM cycling), minder strikte N-weg uitsluitingen (Afsluitdijk werkt weer), albumhoes-kleuren gefixed, touchscreen disable feature."
-        },
-        {
-          "version": "1.0.1",
-          "buildVersion": "2",
-          "date": "2026-05-11T18:10:00Z",
-          "size": 7924321,
-          "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v1.0.1/tomos_dash_unsigned.ipa",
-          "localizedDescription": "Nieuwe Fiets-routemodus, minder strikte N-weg uitsluitingen (Afsluitdijk werkt weer), albumhoes-kleuren gefixed."
         }
       ],
       "appPermissions": {
