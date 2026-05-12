@@ -15,6 +15,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.4.1",
+          "buildVersion": "12",
+          "date": "2026-05-12T06:32:22Z",
+          "size": 8145103,
+          "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v1.4.1/tomos_dash_unsigned.ipa",
+          "localizedDescription": "Spotify scopes uitgebreid (user-read-recently-played, playlist-read-private/collaborative) — gebruiker moet ÉÉN keer 'Loskoppelen' + opnieuw 'Verbinden' tappen na update. Album-art chunks krijgen nu 10ms pauze om iOS BLE flow-control te respecteren. 'Sync DASH' knop in Spotify-kaart om handmatig alles te resyncen."
+        },
+        {
           "version": "1.4.0",
           "buildVersion": "11",
           "date": "2026-05-12T06:12:30Z",
