@@ -15,6 +15,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.4.0",
+          "buildVersion": "11",
+          "date": "2026-05-12T06:12:30Z",
+          "size": 8143832,
+          "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v1.4.0/tomos_dash_unsigned.ipa",
+          "localizedDescription": "Notification popup op DASH: slide-in vanaf rechts, 280px breed, max 3 stacked, 8 sec dwell, tap dismiss. Mooie dark glass look met icoon-kleur per type. Automatische alerts voor brandstof-laag, GPS-loss, motor heet. Test-knop in Instellingen toont demo-melding. LET OP: DASH-firmware moet ook geflashed worden (nieuwe BLE char 0x0011)."
+        },
+        {
           "version": "1.3.0",
           "buildVersion": "10",
           "date": "2026-05-11T20:02:21Z",
