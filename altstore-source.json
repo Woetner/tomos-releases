@@ -15,6 +15,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.4.2",
+          "buildVersion": "13",
+          "date": "2026-05-12T06:51:21Z",
+          "size": 8148104,
+          "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v1.4.2/tomos_dash_unsigned.ipa",
+          "localizedDescription": "Volume via Spotify Web API in plaats van iOS systeemvolume — geen cap meer op 30%. Layout DASH Spotify-scherm: titel/artiest passen nu binnen 230px en lopen niet meer door RECENT/PLAYLISTS panels heen. LET OP: DASH-firmware moet ook opnieuw geflashed worden voor de nieuwe layout."
+        },
+        {
           "version": "1.4.1",
           "buildVersion": "12",
           "date": "2026-05-12T06:32:22Z",
