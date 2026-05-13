@@ -15,6 +15,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.5.0",
+          "buildVersion": "14",
+          "date": "2026-05-13T10:24:24Z",
+          "size": 8157147,
+          "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v1.5.0/tomos_dash_unsigned.ipa",
+          "localizedDescription": "Complete navigatie-rehaul met BRouter. 4 nieuwe modes: Fietsroute (Komoot-stijl), Snelste (brommer-optimaal), Kortste (kortste afstand), Scenic (via natuurgebieden, max +25% omweg). Stadsmijding 5/8/15km via no-go cirkels. NL trunk-roads automatisch vermeden (bromfiets-regel), toggle om ook in buitenland te vermijden. Oude AI-presets verwijderd. Offline router blijft als noodfallback."
+        },
+        {
           "version": "1.4.2",
           "buildVersion": "13",
           "date": "2026-05-12T06:51:21Z",
