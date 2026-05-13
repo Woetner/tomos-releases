@@ -15,6 +15,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.5.1",
+          "buildVersion": "15",
+          "date": "2026-05-13T11:29:30Z",
+          "size": 8161949,
+          "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v1.5.1/tomos_dash_unsigned.ipa",
+          "localizedDescription": "iOS Core Bluetooth State Restoration: zodra DASH aangaat wekt iOS de Tomos-app op de achtergrond en verbindt automatisch — ook als de app uit recente apps is geswiped. Vereist één keer handmatig verbinden om DASH-UUID op te slaan; daarna autonoom."
+        },
+        {
           "version": "1.5.0",
           "buildVersion": "14",
           "date": "2026-05-13T10:24:24Z",
