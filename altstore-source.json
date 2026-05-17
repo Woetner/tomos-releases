@@ -15,6 +15,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.6.0",
+          "buildVersion": "16",
+          "date": "2026-05-17T09:44:24Z",
+          "size": 8145821,
+          "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v1.6.0/tomos_dash_unsigned.ipa",
+          "localizedDescription": "Route-samenvatting met hoogteprofiel + % per wegtype + scenic POIs + debug-info (knop naast routeprofiel). Tussenstops toevoegbaar via samenvatting of POI-lijst. Search-opties Rondom mij / Op route / Bij bestemming. 85%-bereik tankstation gemarkeerd met rood icoon op kaart. Voice nav verwijderd. iOS bonding: DASH wordt nu als Apple-Watch-achtige smart-accessory behandeld door iOS — betere background reconnect. VEREIST DASH-firmware flash voor nieuwe characteristic 0x0012!"
+        },
+        {
           "version": "1.5.1",
           "buildVersion": "15",
           "date": "2026-05-13T11:29:30Z",
