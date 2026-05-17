@@ -15,6 +15,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.6.1",
+          "buildVersion": "17",
+          "date": "2026-05-17T10:02:22Z",
+          "size": 8148257,
+          "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v1.6.1/tomos_dash_unsigned.ipa",
+          "localizedDescription": "Scenic POIs zichtbaar op de kaart (groene markers met natuur/water/heuvels iconen) — toggle aan/uit via Scenic-chip. POIs die in de huidige route gebruikt zijn worden groter weergegeven. Nieuwe Vlakste routemode: minimaal stijgen, max +15% lengte t.o.v. snelste — vergelijkt fastbike/trekking/safety profielen en pakt platste."
+        },
+        {
           "version": "1.6.0",
           "buildVersion": "16",
           "date": "2026-05-17T09:44:24Z",
