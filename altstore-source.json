@@ -15,6 +15,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.6.2",
+          "buildVersion": "18",
+          "date": "2026-05-18T08:18:02Z",
+          "size": 8150056,
+          "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v1.6.2/tomos_dash_unsigned.ipa",
+          "localizedDescription": "Fuel-stop fix: route blijft hetzelfde of DASH nu wel/niet verbonden is. Tankstation wordt alleen als rode marker toegevoegd binnen window 70-90% bereik + max 8km omweg. Geen 2-leg-rerouting meer."
+        },
+        {
           "version": "1.6.1",
           "buildVersion": "17",
           "date": "2026-05-17T10:02:22Z",
