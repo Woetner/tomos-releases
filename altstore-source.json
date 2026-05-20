@@ -15,6 +15,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.7.1",
+          "buildVersion": "20",
+          "date": "2026-05-20T17:06:22Z",
+          "size": 8234670,
+          "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v1.7.1/tomos_dash_unsigned.ipa",
+          "localizedDescription": "Throttle map uitgebreid naar 20 RPM-buckets per mode (0-10000 RPM in stappen van 500). Snel-presets per tab (Alles 0/25/50/75/100%). RPM-filter ruimer (cap 10k, jump 1000 RPM/cycle). LET OP: ECU firmware MOET opnieuw geflashed worden voor de uitgebreide throttle-map."
+        },
+        {
           "version": "1.7.0",
           "buildVersion": "19",
           "date": "2026-05-20T16:52:23Z",
