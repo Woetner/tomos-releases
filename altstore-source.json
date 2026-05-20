@@ -15,6 +15,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.7.2",
+          "buildVersion": "21",
+          "date": "2026-05-20T17:45:22Z",
+          "size": 8235329,
+          "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v1.7.2/tomos_dash_unsigned.ipa",
+          "localizedDescription": "Fix: throttle map kaart was onzichtbaar omdat _pendingSettings emit alleen triggerde bij 100% complete batch. Bij 80 settings drop iOS soms een notification → check faalde. Nu 2-sec timer-flush als fallback. Throttle map zou nu moeten verschijnen."
+        },
+        {
           "version": "1.7.1",
           "buildVersion": "20",
           "date": "2026-05-20T17:06:22Z",
