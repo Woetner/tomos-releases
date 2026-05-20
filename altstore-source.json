@@ -15,6 +15,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.7.0",
+          "buildVersion": "19",
+          "date": "2026-05-20T16:52:23Z",
+          "size": 8231625,
+          "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v1.7.0/tomos_dash_unsigned.ipa",
+          "localizedDescription": "Grote update: TOER mode vrij (geen RPM-fade meer), nieuwe throttle map editor met 3 mode-tabs en 8 RPM-sliders per mode. 30+ extra scenic POIs. BRouter straatnamen. ETA elke minuut. Speed limit verbeterd. LET OP: ECU firmware moet opnieuw geflashed worden via Arduino IDE."
+        },
+        {
           "version": "1.6.2",
           "buildVersion": "18",
           "date": "2026-05-18T08:18:02Z",
