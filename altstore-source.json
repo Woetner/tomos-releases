@@ -15,6 +15,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.8.0",
+          "buildVersion": "22",
+          "date": "2026-05-21T20:43:37Z",
+          "size": 8252619,
+          "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v1.8.0/tomos_dash_unsigned.ipa",
+          "localizedDescription": "Servo min/max afstelling in Instellingen. 70+ extra scenic POIs (totaal ~130). Rondreis-planner chip onder zoekbalk: plant A→B→A met variatie via ander scenic POI op terugweg."
+        },
+        {
           "version": "1.7.2",
           "buildVersion": "21",
           "date": "2026-05-20T17:45:22Z",
