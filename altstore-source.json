@@ -15,6 +15,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.9.5",
+          "buildVersion": "28",
+          "date": "2026-05-22T09:09:33Z",
+          "size": 9891047,
+          "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v1.9.5/tomos_dash_unsigned.ipa",
+          "localizedDescription": "v1.9.5: rondreis: fix timeout — geen dubbele scenic-vias in scenic-mode"
+        },
+        {
           "version": "1.9.4",
           "buildVersion": "27",
           "date": "2026-05-22T08:57:21Z",
