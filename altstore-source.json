@@ -15,6 +15,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.9.4",
+          "buildVersion": "27",
+          "date": "2026-05-22T08:57:21Z",
+          "size": 9890783,
+          "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v1.9.4/tomos_dash_unsigned.ipa",
+          "localizedDescription": "v1.9.4: codemagic publish: geen gh auth login meer"
+        },
+        {
           "version": "1.8.0",
           "buildVersion": "22",
           "date": "2026-05-21T20:43:37Z",
