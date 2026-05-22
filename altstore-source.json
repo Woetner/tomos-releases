@@ -15,6 +15,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.9.6",
+          "buildVersion": "29",
+          "date": "2026-05-22T09:30:01Z",
+          "size": 9892179,
+          "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v1.9.6/tomos_dash_unsigned.ipa",
+          "localizedDescription": "v1.9.6: rondreis: altijd snelste-routing + handmatig POI-injectie"
+        },
+        {
           "version": "1.9.5",
           "buildVersion": "28",
           "date": "2026-05-22T09:09:33Z",
