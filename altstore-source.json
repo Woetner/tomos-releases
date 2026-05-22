@@ -15,6 +15,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.10.0",
+          "buildVersion": "30",
+          "date": "2026-05-22T16:50:04Z",
+          "size": 9893522,
+          "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v1.10.0/tomos_dash_unsigned.ipa",
+          "localizedDescription": "v1.10.0: nav UX overhaul — popup, map-pick, custom start, elevation, sneller"
+        },
+        {
           "version": "1.9.6",
           "buildVersion": "29",
           "date": "2026-05-22T09:30:01Z",
