@@ -17,10 +17,10 @@
         {
           "version": "2.0.0",
           "buildVersion": "33",
-          "date": "2026-05-24T18:39:21Z",
+          "date": "2026-05-24T18:49:20Z",
           "size": 9846049,
           "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v2.0.0/tomos_dash_unsigned.ipa",
-          "localizedDescription": "v2.0.2: DASH anti-inbrand-cyclus + SCR_SPOTIFY safety"
+          "localizedDescription": "v2.0.3: KRITIEK — upload.sh gebruikte LVGL env (waardoor al mijn wijzigingen nooit op de DASH stonden)"
         },
         {
           "version": "1.11.1",
