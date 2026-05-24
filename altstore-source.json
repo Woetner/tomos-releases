@@ -17,10 +17,10 @@
         {
           "version": "2.0.0",
           "buildVersion": "33",
-          "date": "2026-05-24T17:26:09Z",
+          "date": "2026-05-24T18:19:49Z",
           "size": 9846049,
           "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v2.0.0/tomos_dash_unsigned.ipa",
-          "localizedDescription": "v2.0.0: Spotify weg, kompas weg, scenic+offline fix, turn-by-turn rewrite"
+          "localizedDescription": "v2.0.1: DASH compile-fix — verwijder laatste Spotify-refs uit ui.cpp"
         },
         {
           "version": "1.11.1",
