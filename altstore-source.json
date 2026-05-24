@@ -15,6 +15,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "2.0.0",
+          "buildVersion": "33",
+          "date": "2026-05-24T17:26:09Z",
+          "size": 9846049,
+          "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v2.0.0/tomos_dash_unsigned.ipa",
+          "localizedDescription": "v2.0.0: Spotify weg, kompas weg, scenic+offline fix, turn-by-turn rewrite"
+        },
+        {
           "version": "1.11.1",
           "buildVersion": "32",
           "date": "2026-05-22T17:08:45Z",
