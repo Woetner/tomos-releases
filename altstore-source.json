@@ -15,6 +15,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "2.3.2",
+          "buildVersion": "38",
+          "date": "2026-05-25T20:17:42Z",
+          "size": 9717722,
+          "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v2.3.2/tomos_dash_unsigned.ipa",
+          "localizedDescription": "v2.3.2: Vertrekpunt-picker met zoekfunctie"
+        },
+        {
           "version": "2.3.1",
           "buildVersion": "37",
           "date": "2026-05-25T19:52:14Z",
