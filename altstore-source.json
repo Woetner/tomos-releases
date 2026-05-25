@@ -15,6 +15,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "2.2.0",
+          "buildVersion": "35",
+          "date": "2026-05-25T19:28:45Z",
+          "size": 9704043,
+          "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v2.2.0/tomos_dash_unsigned.ipa",
+          "localizedDescription": "v2.2.0: Top-5 navigatie speed-ups"
+        },
+        {
           "version": "2.1.0",
           "buildVersion": "34",
           "date": "2026-05-25T18:58:15Z",
