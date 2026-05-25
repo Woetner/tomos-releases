@@ -15,6 +15,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "2.3.1",
+          "buildVersion": "37",
+          "date": "2026-05-25T19:52:14Z",
+          "size": 9710948,
+          "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v2.3.1/tomos_dash_unsigned.ipa",
+          "localizedDescription": "v2.3.1: uitgebreide city no-go lijst — Metz, Nancy, Straatsburg, Maastricht ea"
+        },
+        {
           "version": "2.3.0",
           "buildVersion": "36",
           "date": "2026-05-25T19:40:40Z",
