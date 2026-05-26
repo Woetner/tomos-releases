@@ -15,6 +15,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "2.5.0",
+          "buildVersion": "40",
+          "date": "2026-05-26T06:41:27Z",
+          "size": 9717806,
+          "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v2.5.0/tomos_dash_unsigned.ipa",
+          "localizedDescription": "v2.5.0: 3 nieuwe experimentele BRouter-profielen"
+        },
+        {
           "version": "2.4.0",
           "buildVersion": "39",
           "date": "2026-05-26T06:31:42Z",
