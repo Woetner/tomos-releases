@@ -17,10 +17,10 @@
         {
           "version": "2.5.0",
           "buildVersion": "40",
-          "date": "2026-05-26T06:41:27Z",
+          "date": "2026-05-27T09:34:33Z",
           "size": 9717806,
           "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v2.5.0/tomos_dash_unsigned.ipa",
-          "localizedDescription": "v2.5.0: 3 nieuwe experimentele BRouter-profielen"
+          "localizedDescription": "android: enable core library desugaring voor flutter_local_notifications"
         },
         {
           "version": "2.4.0",
