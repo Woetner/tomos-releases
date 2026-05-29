@@ -17,10 +17,10 @@
         {
           "version": "2.6.0",
           "buildVersion": "41",
-          "date": "2026-05-29T15:57:48Z",
-          "size": 9718239,
+          "date": "2026-05-29T16:22:26Z",
+          "size": 9718148,
           "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v2.6.0/tomos_dash_unsigned.ipa",
-          "localizedDescription": "v2.6.1: Herstel navigatielijn + snellere GPS-updates"
+          "localizedDescription": "v2.6.2: Herstel blauwe lijn — MTU-limiet hersteld, 2× meer lookahead"
         },
         {
           "version": "2.5.0",
