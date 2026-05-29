@@ -17,10 +17,10 @@
         {
           "version": "2.6.0",
           "buildVersion": "41",
-          "date": "2026-05-28T18:40:33Z",
-          "size": 9720502,
+          "date": "2026-05-29T15:57:48Z",
+          "size": 9718239,
           "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v2.6.0/tomos_dash_unsigned.ipa",
-          "localizedDescription": "v2.6.0: Auto rustig route + vloeiende navigatielijn"
+          "localizedDescription": "v2.6.1: Herstel navigatielijn + snellere GPS-updates"
         },
         {
           "version": "2.5.0",
