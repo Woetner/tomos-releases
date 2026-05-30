@@ -15,6 +15,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "2.6.4",
+          "buildVersion": "43",
+          "date": "2026-05-30T12:33:14Z",
+          "size": 9720953,
+          "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v2.6.4/tomos_dash_unsigned.ipa",
+          "localizedDescription": "v2.6.4: Scenic brommer routeprofiel — bochtige bergwegen via BRouter alternatieven"
+        },
+        {
           "version": "2.6.3",
           "buildVersion": "42",
           "date": "2026-05-29T16:28:32Z",
