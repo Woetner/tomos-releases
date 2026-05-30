@@ -334,7 +334,12 @@
           "NSLocationAlwaysAndWhenInUseUsageDescription": "Voor navigatie als je scherm uit is",
           "NSBluetoothAlwaysUsageDescription": "Voor verbinding met de Tomos DASH"
         }
-      }
+      },
+      "version": "2.7.0",
+      "versionDate": "2026-05-30",
+      "versionDescription": "Route planner + import/export: plan routes op MacBook, exporteer als .tomosroute, importeer op telefoon",
+      "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v2.7.0/tomos_dash_unsigned.ipa",
+      "size": 10816282
     }
   ],
   "news": []
