@@ -17,10 +17,10 @@
         {
           "version": "2.7.0",
           "buildVersion": "44",
-          "date": "2026-05-30T13:22:45Z",
-          "size": 10737495,
+          "date": "2026-05-30T13:24:58Z",
+          "size": 10816282,
           "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v2.7.0/tomos_dash_unsigned.ipa",
-          "localizedDescription": "v2.7.0: Route planner + import/export via .tomosroute"
+          "localizedDescription": "Route planner + import/export: plan routes op MacBook, exporteer als .tomosroute, importeer op telefoon"
         },
         {
           "version": "2.6.4",
