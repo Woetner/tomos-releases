@@ -15,6 +15,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "2.7.0",
+          "buildVersion": "44",
+          "date": "2026-05-30T13:22:45Z",
+          "size": 10737495,
+          "downloadURL": "https://github.com/Woetner/tomos-releases/releases/download/v2.7.0/tomos_dash_unsigned.ipa",
+          "localizedDescription": "v2.7.0: Route planner + import/export via .tomosroute"
+        },
+        {
           "version": "2.6.4",
           "buildVersion": "43",
           "date": "2026-05-30T12:33:14Z",
